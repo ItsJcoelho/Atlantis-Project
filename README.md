@@ -1,6 +1,6 @@
 # Atlantis by ESMAD
 
-
+![alt_text]
 This project is beeing developted by two developers from ESMAD and the principal objective is to create an application where it relies helping on the consultation, subscription, management of the school events 
 
 THE repository is divided in two folders, the "main",where the source code is located and the "mockups" is where our first mockups are located
