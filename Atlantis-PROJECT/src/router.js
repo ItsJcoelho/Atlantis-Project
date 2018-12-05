@@ -28,11 +28,6 @@ export default new Router({
       
     },
     {
-      path: "/myPage",
-      name: "myPage",
-      
-    },
-    {
       path: "/catalog",
       name: "catalog",
       
@@ -40,11 +35,6 @@ export default new Router({
     {
       path: "/insertEvent",
       name: "insertEvent",
-      
-    },
-    {
-      path: "/myEvents",
-      name: "myEvents",
       
     },
     {
@@ -74,7 +64,12 @@ export default new Router({
         {
           path: "challenges",
           name: "user-detail-challenges",
-        }
+        },
+        {
+          path: "/myEvents",
+          name: "myEvents",
+          
+        },
       ]
     },
   ]
