@@ -5,7 +5,7 @@
 
 This project is beeing developted by two developers from ESMAD and the principal objective is to create an application where it relies helping on the consultation, subscription, management of the school events, which as gamification properties like Leveling up;
 
-The repository is divided in two folders, the "AtlantisPROJECT",where the source code is located and the "modulos" is where our first mockups are located, then there are pictures of the project' color scheme anf font style
+The repository is divided in two folders, the "AtlantisPROJECT",where the source code is located and the "modulos" is where our first mockups are located, then there are pictures of the project' color scheme anf font style, and our logo
 
 To run "Atlantis" you have to have vue installed in your machine, then, after you downloaded the files, you have to install the components in your folder where the source code is located. We use Vue Router and VueX, so, you have to have installed this extensions in your machine, in order to run "Atlantis".
 
