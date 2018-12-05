@@ -2,7 +2,7 @@ import Vue from "vue";
 import Router from "vue-router";
 import Home from "./views/Home.vue";
 
-//TESTE M
+
 Vue.use(Router);
 
 export default new Router({
@@ -58,6 +58,24 @@ export default new Router({
       
     },
     
-
+    {
+      path: "/profile",
+      name: "profile",
+      
+    },
+    
+    {
+      path: "/profile/:userId",
+      name: "user-detail",
+      children: [{
+          path: "achievements",
+          name: "actor-detail-achievements",
+        },
+        {
+          path: "challenges",
+          name: "user-detail-challenges",
+        }
+      ]
+    },
   ]
 });
