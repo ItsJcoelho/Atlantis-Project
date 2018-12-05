@@ -1,6 +1,8 @@
 # Atlantis by ESMAD
 
-![alt_text]
+![alt_text](https://github.com/ItsJcoelho/Atlantis-Project/blob/master/LogoAtlantis.PNG)
+
+
 This project is beeing developted by two developers from ESMAD and the principal objective is to create an application where it relies helping on the consultation, subscription, management of the school events 
 
 The repository is divided in two folders, the "AtlantisPROJECT",where the source code is located and the "modulos" is where our first mockups are located
