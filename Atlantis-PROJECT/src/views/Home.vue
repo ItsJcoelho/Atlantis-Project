@@ -3,7 +3,7 @@
     <img alt="Vue logo" src="../assets/LogoAtlantis.png">
     <p><button type="button" class="btn btn-primary btn-lg">LOGIN</button></p>
     <p>Não tem Conta?</p>
-    <p><a class="btn btn-primary" href="#" role="button">Link</a></p>
+    <p><a class="btn btn-primary" href="#" role="button">Sign-Up</a></p>
   </div>
 </template>
 
