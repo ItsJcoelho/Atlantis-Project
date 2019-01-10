@@ -88,6 +88,9 @@ export default new Vuex.Store({
     getCourses(state){
       return state.courses
     },
+    getCategories(state){
+      return state.categories
+    },
     getEvents(state){
       return state.events
     },

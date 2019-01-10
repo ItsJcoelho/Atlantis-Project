@@ -94,5 +94,8 @@ h1{
 .card{
   text-align: center;
 }
+label{
+  color: #025E73;
+}
 
 </style>
