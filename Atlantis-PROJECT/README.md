@@ -1,4 +1,4 @@
-# Atlantis-PROJECT
+# Atlantis-project
 
 ## Project setup
 ```
